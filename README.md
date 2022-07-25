@@ -1,2 +1,2 @@
 # NTUHPC_parallelisation
-Code that computes the approximate value of pi using serial and parallel programs
+Mini project to parallelise the approximation of pi using OpenMP 
