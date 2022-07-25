@@ -1,5 +1,4 @@
-HPCTask1/cmake-build-debug/
-HPCTask2/cmake-build-debug/
+cmake-build-debug
 
 # Prerequisite
 *.d
