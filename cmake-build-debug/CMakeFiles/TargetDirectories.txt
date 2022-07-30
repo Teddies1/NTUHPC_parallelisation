@@ -1,0 +1,3 @@
+C:/Users/Hon Joo/CLionProjects/HPCTask1/cmake-build-debug/CMakeFiles/HPCTask1.dir
+C:/Users/Hon Joo/CLionProjects/HPCTask1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hon Joo/CLionProjects/HPCTask1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
