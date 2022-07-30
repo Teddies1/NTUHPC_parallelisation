@@ -1,6 +1,8 @@
-cmake-build-debug/
-HPCTask1/.exe
-HPCTask2/.exe
+HPCTask1/cmake-build-debug/**
+HPCTask2/cmake-build-debug/**
+
+task1.exe
+task2.exe
 # Prerequisite
 *.d
 
